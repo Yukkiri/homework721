@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Homework721</string>
+    <string name="button">Ищем</string>
+    <string name="hint">Введите координаты или название</string>
+</resources>
